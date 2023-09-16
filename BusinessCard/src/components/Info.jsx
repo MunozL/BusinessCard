@@ -3,7 +3,9 @@ export default function Info() {
     <div className="info">
       <h1>Lizette Munoz</h1>
       <h3>Software/Web Developer</h3>
-      <a href="#">https://munozl.github.io/</a>
+      <h4>
+        Portfolio - <a href="#">https://munozl.github.io/</a>
+      </h4>
     </div>
   );
 }
