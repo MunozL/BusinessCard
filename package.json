@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "material-icons": "^1.13.11",
+    "react-icons": "^4.11.0"
+  }
+}
